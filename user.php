@@ -1,8 +1,8 @@
 <?php
 $stat_sseth=true;
 $msgsseth= "[---] enjoy your life";
-$stat_cp = true;
-$msgcp = "[--] enjoy your life";
+$    stat_cp     =    false ;
+$     msgcp      =     "[-] menikmati hidup Anda" ;
 $figlet= $ijo."
 ───────────────────────────────────────────
 ── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀ ".$kuning." [`  ||    _    _.       
