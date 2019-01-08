@@ -4,6 +4,7 @@ $msgsseth= "[---] enjoy your life";
 $stat_cp =true;
 $msgcp = "[--] enjoy your life";
 $figlet= $ijo."
+we_stat  =  false ;
 ───────────────────────────────────────────
 ── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀ ".$kuning." [`  ||    _    _.       
 ── █─ █▀█ █─█ █ █─▀█ █─▀▌".$kuning." | L||| \/(/_|`_\|".$ijo."
