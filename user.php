@@ -4,9 +4,9 @@ $msgsseth= "[---] enjoy your life";
 $stat_cp =true;
 $msgcp = "[--] enjoy your life";
 $figlet= $ijo."
-we_stat  =  false ;
-───────────────────────────────────────────
-── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀ ".$kuning." [`  ||    _    _.       
+we_stat = true;
+2
+── ▄▀ ▄▀▄ █▀▄ ▀ █▄─█ ▄▀▀ " . $ Kuning . "  [`|| _ _.       
 ── █─ █▀█ █─█ █ █─▀█ █─▀▌".$kuning." | L||| \/(/_|`_\|".$ijo."
 ── ─▀ ▀─▀ █▀─ ▀ ▀──▀ ▀▀▀───────────────────".$t.
   $putih."creator:".$ijo." adidoank   ".$putih."[--]  ide  :".$ijo." sungging  ".$t.
