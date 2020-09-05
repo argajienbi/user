@@ -8,6 +8,12 @@ $pink = "[1;35m";
 $red = "[1;31m";
 $kuning = "[1;33m";
 
+$t = "
+";
+$tt = "
+
+";
+
 echo$kuning.$t;
 $tanggal = mktime(date("m"), date("d"), date("Y"));
 echo "Tanggal : ".date("d-M-Y", $tanggal)." ".$t;
