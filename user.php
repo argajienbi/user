@@ -39,8 +39,8 @@ echo $ijo."╔═══╗╔═══╗╔═══╗╔══╗╔═╗─
 ╚═══╝╚╝─╚╝╚╝───╚══╝╚╝─╚═╝╚═══╝".$t;
 echo $biru."=========================================".$t;
 
-echo$t.$putih."[*]".$ijo." BOT CAPING ".$putih." [ ".$biru."✓ ".$putih."]".$t;
-echo$putih."[#]".$ijo." Creator : ".$pink." Armin Gandi".$t.$t;
+echo$putih."[*]".$ijo." BOT CAPING ".$putih." [ ".$biru."✓ ".$putih."]".$t;
+echo$putih."[#]".$ijo." Creator : ".$pink." Armin Gandi".$t;
 echo $biru."=========================================".$t;
 
 
