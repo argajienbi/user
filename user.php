@@ -1,4 +1,27 @@
 <?php
+$biru = "[1;34m";
+$turkis = "[1;36m";
+$ijo = "[92m";
+$putih = "[1;37m";
+$pink = "[1;35m";
+$red = "[1;31m";
+$kuning = "[1;33m";
+
+echo$kuning.$t;
+$tanggal = mktime(date("m"), date("d"), date("Y"));
+echo "Tanggal : ".date("d-M-Y", $tanggal)." ".$t;
+$jam = date("H:i:s");
+echo "Pukul : ". $jam." ".$t;
+$a = date ("H");
+if (($a >= 6) && ($a <= 11)) {
+        echo "Selamat Pagi !!";
+} else if (($a > 11) && ($a <= 15)) {
+        echo "Selamat siang !!";
+} else if (($a > 15) && ($a <= 18)) {
+        echo "Selamat sore !!";
+} else {
+        echo "Selamat Malam !!";
+}
 echo$t;
 echo $tt.$ijo."╔═══╗╔═══╗╔═══╗╔══╗╔═╗─╔╗╔═══╗
 ║╔═╗║║╔═╗║║╔═╗║╚╣─╝║║╚╗║║║╔═╗║
